@@ -7,8 +7,6 @@ $categorias[] = "Infantil";
 $categorias[] = "Adolescentes";
 $categorias[] = "Adulto";
 
-//print_r($categorias);
-
 $nome = $_POST['nome'];
 $idade = $_POST['idade'];
 
