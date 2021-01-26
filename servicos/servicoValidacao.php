@@ -25,6 +25,3 @@ function validaIdade(string $idade) : bool{
     }
     return true;
 }
-
-
-
